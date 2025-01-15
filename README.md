@@ -18,7 +18,7 @@ Project Structure
 -----------------
 
 
-|-- Scripts    
+|-- Scripts/    
 
     |-- helpers.py                  # Data loading, cleaning, and splitting utilities
 
