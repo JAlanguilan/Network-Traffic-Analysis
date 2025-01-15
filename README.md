@@ -16,7 +16,7 @@ It leverages Python libraries like Pandas, Scikit-learn, and Imbalanced-learn to
 
 Project Structure
 -----------------
-.
+
 |-- MachineLearningCVE/         # Folder containing CSV files
 
 |-- helpers.py                  # Data loading, cleaning, and splitting utilities
