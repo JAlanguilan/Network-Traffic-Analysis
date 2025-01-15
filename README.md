@@ -88,9 +88,9 @@ Outputs
 1. Console Outputs:
     - Accuracy, confusion matrices, and detailed classification reports for each task and model.
 2. Log file process.log
-    - Contains a records of all processed files, tasks, and evaluation results.
+    - Contains records of all processed files, tasks, and evaluation results.
 3. Results: results.json and results.pdf
-    - Structured JSON and PDF file containing accuracy, classification metrics, and confusion matrices.
+    - Structured JSON and a PDF file containing the accuracy, classification metrics, and confusion matrices.
     - Note: results.json will contain evaluation metrics for all tasks (Direct Multi-Class, Resampled Multi-Class, Binary, and Malicious Multi-Class). Results for each model (MLP, RF) are appended sequentially.
 
 
