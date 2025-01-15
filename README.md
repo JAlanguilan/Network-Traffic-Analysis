@@ -4,7 +4,7 @@ Multi-Class and Hierarchical Classification for Network Traffic Data
 
 Description
 -----------
-This project is designed to handle multi-class classification and hierarchical binary classification tasks for Machine Learning-based datasets. 
+This a project I did for my CyberAI class that covered all the concepts we covered in the class. It is designed to handle multi-class classification and hierarchical binary classification tasks for Machine Learning-based datasets. 
 It leverages Python libraries like Pandas, Scikit-learn, and Imbalanced-learn to:
     1. Load and Clean Data: Strip unnecessary columns, clean NaN values, and ensure usable formats.
     2. Multi-Class Classification: Train and evaluate MLP and Random Forest classifiers.
@@ -53,7 +53,8 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
 How to use
 -----------
 Place data files
-    - Add your CSV files to the folder MachineLearningCVE. The MachineLearningCVE folder should be in same directory as the scripts.
+    - Download the dataset from https://osf.io/h7zjw/ (the files were too large to upload to GitHub)
+    - Add the CSV files to the folder MachineLearningCVE. The MachineLearningCVE folder should be in the same directory as the scripts.
 
 Run the Script: Execute the main script:
     - python main.py
