@@ -54,7 +54,8 @@ How to use
 -----------
 Place data files
     - Download the dataset from https://osf.io/h7zjw/ (the files were too large to upload to GitHub)
-    - Add the CSV files to the folder MachineLearningCVE. The MachineLearningCVE folder should be in the same directory as the scripts.
+    
+- Add the CSV files to the folder MachineLearningCVE. The MachineLearningCVE folder should be in the same directory as the scripts.
 
 Run the Script: Execute the main script:
     - python main.py
