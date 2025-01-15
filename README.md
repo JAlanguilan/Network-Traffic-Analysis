@@ -18,12 +18,19 @@ Project Structure
 -----------------
 .
 |-- MachineLearningCVE/         # Folder containing CSV files
+
 |-- helpers.py                  # Data loading, cleaning, and splitting utilities
+
 |-- multiclass_classification.py # Multi-class training, testing, and resampling
+
 |-- main.py                     # Main script to process all tasks
+
 |-- process.log                 # Log file generated during execution
+
 |-- results.json                # Evaluation results (accuracy, metrics, etc.)
+
 |-- results.pdf                 # Formatted PDF report containing all results
+
 |-- README.txt                  # Project documentation
 
 
