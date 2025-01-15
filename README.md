@@ -19,7 +19,8 @@ Project Structure
 
 |-- MachineLearningCVE/         # Folder containing CSV files
 
-|-- Scripts
+|-- Scripts    
+
     |-- helpers.py                  # Data loading, cleaning, and splitting utilities
 
     |-- multiclass_classification.py # Multi-class training, testing, and resampling
