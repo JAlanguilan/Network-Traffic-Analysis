@@ -4,7 +4,7 @@ Multi-Class and Hierarchical Classification for Network Traffic Data
 
 Description
 -----------
-This a project I did for my CyberAI class that covered all the concepts we covered in the class. It is designed to handle multi-class classification and hierarchical binary classification tasks for Machine Learning-based datasets. 
+Machine learning pipeline designed to handle multi-class classification and hierarchical binary classification tasks for Machine Learning-based dataset, MachineLearingCVE. 
 It leverages Python libraries like Pandas, Scikit-learn, and Imbalanced-learn to:
 
     1. Load and Clean Data: Strip unnecessary columns, clean NaN values, and ensure usable formats.
